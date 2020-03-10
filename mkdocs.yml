@@ -1,1 +1,17 @@
-site_name: My Docs
+site_name: Makobot HAUV Documentation
+site_description: "Makobot HAUV Documentation"
+
+theme: readthedocs
+
+nav:
+    - Home: index.md
+    - About: about.md
+    - Quick Start: quickstart.md
+    - Robot Modification Instructions: robot_modifications.md
+    - Software Installation: installation.md
+    - Simulations: simulations.md
+
+extra:
+    social:
+        - type: github-alt
+          link: https://github.com/makobot-hauv/

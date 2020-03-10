@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The Makobot Hovering Autonomous Underwater Vehicle (HAUV) is a research platform for autonomous marine robotics research based on the BlueROV2.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+These instructions provide a set of augmentations which can be made to a BlueROV2 in order to provide more capabilities for autonomous operation. 
