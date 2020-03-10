@@ -7,8 +7,14 @@ nav:
     - Home: index.md
     - About: about.md
     - Quick Start: quickstart.md
-    - Robot Modification Instructions: robot_modifications.md
-    - Software Installation: installation.md
+    - Hardware:
+        - Robot Modification Instructions: robot_modifications.md
+    - Software:
+        - Software: software/software.md
+        - ROS Installation: software/ros_installation.md
+        - Networking Configuration: software/networking.md
+        - Fitlet2 Software Installation: software/fitlet_installation.md
+        - Jetson TX2 Software Installation: software/jetson_installation.md
     - Simulations: simulations.md
 
 extra:
