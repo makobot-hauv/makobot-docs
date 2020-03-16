@@ -8,14 +8,16 @@ nav:
     - About: about.md
     - Quick Start: quickstart.md
     - Hardware:
-        - Robot Modification Instructions: robot_modifications.md
+        - Robot Modification Instructions: hardware/robot_modifications.md
+        - Wiring Instructions: hardware/wiring.md
     - Software:
         - Software: software/software.md
         - ROS Installation: software/ros_installation.md
         - Networking Configuration: software/networking.md
         - Fitlet2 Software Installation: software/fitlet_installation.md
         - Jetson TX2 Software Installation: software/jetson_installation.md
-    - Simulations: simulations.md
+    - Simulation:
+        - Simulations with UUV Simulator: simulation/simulations.md
 
 extra:
     social:
