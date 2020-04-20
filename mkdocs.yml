@@ -27,8 +27,24 @@ nav:
     - Quick Start: quickstart.md
     - Bill of Materials: bom.md
     - Hardware:
-        - Robot Modification Instructions: hardware/robot_modifications.md
-        - Wiring Instructions: hardware/wiring.md
+        - Hardware Modification: hardware/hardware_modifications.md
+        - Manufacturing: hardware/manufacturing.md
+        - Primary Control Module:
+            - Primary Module Modifications: hardware/primary-module/primary-module-mod.md
+            - Primary Module Assembly: hardware/primary-module/primary-module-assem.md
+        - Power Module:
+            - Power Module Manufacturing: hardware/power-module/power-module-mfg.md
+            - Power Module Assembly: hardware/power-module/power-module-assem.md
+        - Auxiliary Computing Module:
+            - Auxiliary Module Manufacturing: hardware/aux-module/aux-module-mfg.md
+            - Auxiliary Module Assembly: hardware/aux-module/aux-module-assem.md
+        - Camera Modules:
+            - Camera Module Manufacturing: hardware/camera-modules/camera-module-mfg.md
+            - Camera Module Assembly: hardware/camera-modules/camera-module-assem.md
+        - Assembly:
+            - Hardware Assembly: hardware/assembly/assembly.md
+            - Wiring Instructions: hardware/assembly/wiring.md
+        - Testing: hardware/testing.md
     - Software:
         - Software: software/software.md
         - ROS Installation: software/ros_installation.md
