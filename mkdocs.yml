@@ -26,7 +26,6 @@ nav:
     - Home: index.md
     - Quick Start: quickstart.md
     - Bill of Materials: bom.md
-    - Scratch: scratch.md
     - Hardware:
         - Robot Modification Instructions: hardware/robot_modifications.md
         - Wiring Instructions: hardware/wiring.md

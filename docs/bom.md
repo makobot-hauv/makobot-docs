@@ -1,8 +1,8 @@
 # Bill of Materials
 
-This Bill of Materials documents all components that must be acquired to build a complete Makobot HAUV system. The following link
+This Bill of Materials documents all components that must be acquired to build a complete Makobot HAUV system. The following link is to version 1.0 of the Bill of Materials on Google Sheets:
 
-[Makobot HAUV Bill of Materials v1.0](https://docs.google.com/spreadsheets/d/1pIZ3ruXcgnxzgIq_jBAFq0wegBdHvxpGO-6rFsgLlio/edit?usp=sharing)
+<a href="https://docs.google.com/spreadsheets/d/1pIZ3ruXcgnxzgIq_jBAFq0wegBdHvxpGO-6rFsgLlio/edit?usp=sharing" target="_blank">Makobot HAUV Bill of Materials v1.0</a>
 
 Total Cost: $todo
 
