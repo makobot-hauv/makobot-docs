@@ -1,12 +1,26 @@
 site_name: Makobot HAUV Documentation
+copyright: Copyright (c) 2020 Makobot HAUV developers
 site_description: "Makobot HAUV Documentation"
+site_url: https://makobot-hauv.github.io/
+repo_url: https://github.com/makobot-hauv
 
-theme: readthedocs
+theme:
+    name: material
+    palette:
+        primary: light blue
+        accent: deep orange
+    icon:
+        logo: material/library
+        repo: fontawesome/brands/git-alt
+    features:
+        - tabs
+
 
 nav:
     - Home: index.md
-    - About: about.md
     - Quick Start: quickstart.md
+    - Bill of Materials: bom.md
+    - Scratch: scratch.md
     - Hardware:
         - Robot Modification Instructions: hardware/robot_modifications.md
         - Wiring Instructions: hardware/wiring.md
@@ -18,8 +32,10 @@ nav:
         - Jetson TX2 Software Installation: software/jetson_installation.md
     - Simulation:
         - Simulations with UUV Simulator: simulation/simulations.md
+    - Field Testing:
+        - Field Testing: field-testing/field_testing.md
 
 extra:
-    social:
-        - type: github-alt
-          link: https://github.com/makobot-hauv/
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com/makobot-hauv

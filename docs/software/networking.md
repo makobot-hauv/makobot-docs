@@ -21,9 +21,17 @@ These instructions assume the topside computer is running Ubuntu Linux 18.04 and
 
 todo
 
+### Camera IP Addresses
+
+Basler1: 192.168.3.23
+
+Basler2: 192.168.4.24
+
 ## Set up Networking on fitlet2
 
 todo
+
+subnet of each NIC
 
 ## Set up Networking on Raspberry Pi
 
