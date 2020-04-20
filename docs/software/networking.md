@@ -46,7 +46,7 @@ todo
 
 ## Set up SSH Keys
 
-As per the ROS issue described [here](https://answers.ros.org/question/244060/roslaunch-ssh-known_host-errors-cannot-launch-remote-nodes/), we have to set up SSH keys so that roslaunch can correctly SSH into the different machines. Do this step on the topside computer as that is where we will be launching the ROS processes from.
+As per the ROS issue described <a href="https://answers.ros.org/question/244060/roslaunch-ssh-known_host-errors-cannot-launch-remote-nodes/"  target="_blank">here</a>, we have to set up SSH keys so that roslaunch can correctly SSH into the different machines. Do this step on the topside computer as that is where we will be launching the ROS processes from.
 
 1. Generate the RSA key pair as usual:
 
