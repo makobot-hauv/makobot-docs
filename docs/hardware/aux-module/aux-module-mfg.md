@@ -5,3 +5,14 @@
 
 
 ## Endcap Modifications for Bulkhead Penetrators
+
+
+
+
+## Tether Modifications
+
+
+### Tether Splicing
+
+
+### Tether Wiring 
