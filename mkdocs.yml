@@ -54,6 +54,11 @@ nav:
         - Simulations with UUV Simulator: simulation/simulations.md
     - Field Testing:
         - Field Testing: field-testing/field_testing.md
+    - Diver Rig:
+        - Diver Rig: diver-rig/diver-rig.md
+        - Bill of Materials: diver-rig/bom.md
+        - Manufacturing: diver-rig/mfg.md
+        - Assembly: diver-rig/assem.md 
 
 extra:
   social:
