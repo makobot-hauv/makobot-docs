@@ -46,8 +46,7 @@ nav:
             - Wiring Instructions: hardware/assembly/wiring.md
         - Testing: hardware/testing.md
     - Software:
-        - Software: software/software.md
-        - ROS Installation: software/ros_installation.md
+        - Software Installation: software/software.md
         - Networking Configuration: software/networking.md
         - Fitlet2 Software Installation: software/fitlet_installation.md
         - Jetson TX2 Software Installation: software/jetson_installation.md
