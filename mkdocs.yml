@@ -48,8 +48,8 @@ nav:
     - Software:
         - Software Installation: software/software.md
         - Networking Configuration: software/networking.md
-        - Fitlet2 Software Installation: software/fitlet_installation.md
-        - Jetson TX2 Software Installation: software/jetson_installation.md
+        - Camera Configuration: software/cameraconfig.md
+        - Topside Configuration (Optional): software/topside.md
     - Simulation:
         - Simulations with UUV Simulator: simulation/simulations.md
     - Field Testing:
