@@ -26,6 +26,7 @@ nav:
     - Home: index.md
     - Quick Start: quickstart.md
     - Bill of Materials: bom.md
+    - Datasheets: datasheets.md
     - Hardware:
         - Hardware Modification: hardware/hardware_modifications.md
         - Manufacturing: hardware/manufacturing.md
@@ -58,7 +59,7 @@ nav:
         - Diver Rig: diver-rig/diver-rig.md
         - Bill of Materials: diver-rig/bom.md
         - Manufacturing: diver-rig/mfg.md
-        - Assembly: diver-rig/assem.md 
+        - Assembly: diver-rig/assem.md
 
 extra:
   social:

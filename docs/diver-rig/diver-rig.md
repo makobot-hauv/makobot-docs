@@ -1,6 +1,6 @@
 # Diver Rig
 
-One of the nice aspects of the stereo camera integration is the camera modules can be removed from the vehicle and used as a standalone system for data collection by a diver or snorkeler.
+One of the nicer aspects of the stereo camera integration is the camera modules can be removed from the vehicle and used as a standalone system for data collection by a diver or snorkeler.
 
 This can free up the overhead for deploying the entire vehicle and enable rapid data collection for development and testing.
 
