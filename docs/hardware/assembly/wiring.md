@@ -26,7 +26,7 @@ The table below shows the mapping from bulkhead pin number to Belden cable wire 
 | 7 |  yellow |
 | 8 |  orange  |
 
-![teledyne pin numbering](https://github.com/makobot-hauv/makobot-docs/blob/master/img/bulkhead_8pin_diagram.png?raw=true)
+![teledyne pin numbering](https://raw.githubusercontent.com/makobot-hauv/makobot-docs/master/img/bulkhead_8pin_diagram.png)
 
 Each pin number corresponds directly to the number on the punchdown connector (TODO add diagram). I.e., pin 8/orange wire will be wired to pin 8 on the punchdown.
 
