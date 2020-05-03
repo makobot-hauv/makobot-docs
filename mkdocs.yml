@@ -28,35 +28,37 @@ nav:
     - Bill of Materials: bom.md
     - Datasheets: datasheets.md
     - Hardware:
-        - Hardware Modification: hardware/hardware_modifications.md
+        - Hardware Overview: hardware/overview.md
+        - Hardware Modification: hardware/modifications.md
         - Manufacturing: hardware/manufacturing.md
         - Primary Control Module:
-            - Primary Module Modifications: hardware/primary-module/primary-module-mod.md
-            - Primary Module Assembly: hardware/primary-module/primary-module-assem.md
+            - Primary Module Modifications: hardware/primary-module/mod.md
+            - Primary Module Assembly: hardware/primary-module/assem.md
         - Power Module:
-            - Power Module Manufacturing: hardware/power-module/power-module-mfg.md
-            - Power Module Assembly: hardware/power-module/power-module-assem.md
+            - Power Module Manufacturing: hardware/power-module/mfg.md
+            - Power Module Assembly: hardware/power-module/assem.md
         - Auxiliary Computing Module:
-            - Auxiliary Module Manufacturing: hardware/aux-module/aux-module-mfg.md
-            - Auxiliary Module Assembly: hardware/aux-module/aux-module-assem.md
+            - Auxiliary Module Manufacturing: hardware/aux-module/mfg.md
+            - Auxiliary Module Assembly: hardware/aux-module/assem.md
         - Camera Modules:
-            - Camera Module Manufacturing: hardware/camera-modules/camera-module-mfg.md
-            - Camera Module Assembly: hardware/camera-modules/camera-module-assem.md
+            - Camera Module Manufacturing: hardware/camera-modules/mfg.md
+            - Camera Module Assembly: hardware/camera-modules/assem.md
         - Assembly:
             - Hardware Assembly: hardware/assembly/assembly.md
             - Wiring Instructions: hardware/assembly/wiring.md
         - Testing: hardware/testing.md
     - Software:
-        - Software Installation: software/software.md
+        - Software Overview: software/overview.md
+        - Software Installation: software/installation.md
         - Networking Configuration: software/networking.md
         - Camera Configuration: software/cameraconfig.md
         - Topside Configuration (Optional): software/topside.md
     - Simulation:
-        - Simulations with UUV Simulator: simulation/simulations.md
+        - Simulations with UUV Simulator: simulation/overview.md
     - Field Testing:
         - Field Testing: field-testing/field_testing.md
     - Diver Rig:
-        - Diver Rig: diver-rig/diver-rig.md
+        - Diver Rig Overview: diver-rig/overview.md
         - Bill of Materials: diver-rig/bom.md
         - Manufacturing: diver-rig/mfg.md
         - Assembly: diver-rig/assem.md
