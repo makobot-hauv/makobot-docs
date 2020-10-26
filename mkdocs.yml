@@ -27,6 +27,7 @@ nav:
     - Quick Start: quickstart.md
     - Bill of Materials: bom.md
     - Datasheets: datasheets.md
+    - Drawings: drawings.md
     - Hardware:
         - Hardware Overview: hardware/overview.md
         - Hardware Modification: hardware/modifications.md
@@ -53,15 +54,15 @@ nav:
         - Networking Configuration: software/networking.md
         - Camera Configuration: software/cameraconfig.md
         - Topside Configuration (Optional): software/topside.md
-    - Simulation:
-        - Simulations with UUV Simulator: simulation/overview.md
+    #- Simulation:
+    #    - Simulations with UUV Simulator: simulation/overview.md
     - Field Testing:
         - Field Testing: field-testing/field_testing.md
-    - Diver Rig:
-        - Diver Rig Overview: diver-rig/overview.md
-        - Bill of Materials: diver-rig/bom.md
-        - Manufacturing: diver-rig/mfg.md
-        - Assembly: diver-rig/assem.md
+    #- Diver Rig:
+    #    - Diver Rig Overview: diver-rig/overview.md
+    #    - Bill of Materials: diver-rig/bom.md
+    #    - Manufacturing: diver-rig/mfg.md
+    #    - Assembly: diver-rig/assem.md
 
 extra:
   social:
